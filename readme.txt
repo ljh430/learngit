@@ -7,3 +7,5 @@ what about adding to stage.
 connect to Github.
 
 test the branch function.
+
+解决冲突测试
